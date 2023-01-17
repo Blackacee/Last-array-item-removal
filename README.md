@@ -1,2 +1,4 @@
 # Last-array-item-removal
-Removing the last item in an array using pop() method 
+ 
+var array = [1, 2, 3];
+array.pop();
